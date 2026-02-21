@@ -34,6 +34,8 @@ However, other dimensions drift in the *opposite* direction:
 
 Several dimensions show negligible drift: **religion_importance_god**, **democracy_essential_civil_rights**, and **religion_over_science** remain largely unchanged.
 
+![Drift by WVS dimension](output.png)
+
 ## Interpretation
 
 1. **Sycophancy is selective, not global.** GPT-4o does not uniformly shift toward whatever values the user expresses. The model appears more susceptible to influence on some value dimensions (particularly duty and obligation) than on others (particularly security/surveillance and authority).
